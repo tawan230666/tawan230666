@@ -12,9 +12,6 @@ passionate about Machine Learning, Data Science, and Software Development. I lov
 * 🤝  I'm open to collaborating on Projects & Interests: 🤖 ML Models – Experimenting with machine learning models on real-world datasets 🕹 Game Development – Integrating AI with 2D game mechanics 📡 Networking Projects – Simulating and configuring networks in Packet Tracer
 * ⚡  💡 Goals & Aspirations: I’m passionate about leveraging AI and software development to create impactful solutions. Always eager to learn, collaborate, and improve my coding skills.
 
-<a href="https://www.github.com/TawanTippkun200501" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TawanTippkun200501?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 

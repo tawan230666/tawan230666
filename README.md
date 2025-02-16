@@ -29,6 +29,5 @@ Currently studying
 
 
 
-![snake gif](https://github.com/tawan230666/tawan230666/blob/output/github-snake-dark.svg)
 ### 🐍 GitHub Contribution Snake  
 ![snake gif](https://github.com/tawan230666/github-snake/blob/output/github-contribution-grid-snake.svg)

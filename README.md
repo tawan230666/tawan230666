@@ -1,27 +1,39 @@
-# 💫 About Me:
-<br><br><br>🚀 Welcome to My GitHub!<br>Hi there! 👋 I'm a Software Engineering student passionate about Machine Learning, Data Science, and Software Development. I love exploring new technologies and building projects that solve real-world problems.<br><br>🔍 Currently Learning:<br>Machine Learning (Supervised & Unsupervised Learning, Neural Networks)<br>Python for Data Science (Pandas, NumPy, Scikit-learn)<br>Software Development (Clean Code, Design Patterns)<br>Networking & Security<br><br>🛠 Projects & Interests:<br>🤖 ML Models – Experimenting with machine learning models on real-world datasets<br>🕹 Game Development – Integrating AI with 2D game mechanics<br>📡 Networking Projects – Simulating and configuring networks in Packet Tracer<br><br>💡 Goals & Aspirations:<br>I’m passionate about leveraging AI and software development to create impactful solutions. Always eager to learn, collaborate, and improve my coding skills.
+สวัสดีฉันชื่อตะวันทิพย์คุณ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=====================================================================================================================================
 
+ฉันเป็นนักศึกษาสาขาวิศวกรรมซอฟต์แวร์
+------------------------------------
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Mm8DYmKio/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tawantippkun200501@gmail.com) 
+หลงใหลในเรื่องการเรียนรู้ของเครื่องจักร วิทยาศาสตร์ข้อมูล และการพัฒนาซอฟต์แวร์ ฉันชอบที่จะสำรวจเทคโนโลยีใหม่ๆ และสร้างโครงการต่างๆ ที่สามารถแก้ไขปัญหาในโลกแห่งความเป็นจริงได้
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tawan230666&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tawan230666&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tawan230666&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tawan230666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tawan230666&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tawan230666&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*   🌍 ฉันอยู่ในประเทศไทย
+*   ✉️ สามารถติดต่อได้ที่[tawantippkun20501@gmail.com](mailto:tawantippkun20501@gmail.com)[](mailto:tawantippkun20501@gmail.com)
+*   🧠 ฉันกำลังเรียนรู้เกี่ยวกับการเรียนรู้ของเครื่อง (การเรียนรู้แบบมีผู้ดูแลและไม่มีผู้ดูแล เครือข่ายประสาท) Python สำหรับวิทยาศาสตร์ข้อมูล (Pandas, NumPy, Scikit-learn) การพัฒนาซอฟต์แวร์ (โค้ดที่สะอาด รูปแบบการออกแบบ) เครือข่ายและความปลอดภัย
+*   🤝 ฉันเปิดใจที่จะร่วมมือใน โครงการและความสนใจ: 🤖 โมเดล ML – การทดลองกับโมเดลการเรียนรู้ของเครื่องบนชุดข้อมูลในโลกแห่งความเป็นจริง 🕹 การพัฒนาเกม – การผสานรวม AI กับกลไกของเกม 2 มิติ 📡 โปรเจ็กต์ด้านเครือข่าย – การจำลองและกำหนดค่าเครือข่ายใน Packet Tracer
+*   ⚡  💡 เป้าหมายและแรงบันดาลใจ: ฉันหลงใหลในการใช้ประโยชน์จาก AI และการพัฒนาซอฟต์แวร์เพื่อสร้างโซลูชันที่มีประสิทธิภาพ ฉันกระตือรือร้นที่จะเรียนรู้ ทำงานร่วมกัน และปรับปรุงทักษะการเขียนโค้ดของฉันอยู่เสมอ<a href="https://www.github.com/TawanTippkun200501" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/TawanTippkun200501?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### ทักษะ 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### โซเชียล
+                  
+                   
+                <p align="left"> </p>
+                      <a href="https://www.facebook.com/Tawan Tippkhun" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/TawanTippkun200501" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>### ป้าย<b>My GitHub Stats</b><a
+                      href="http://www.github.com/TawanTippkun200501"><img src="https://github-readme-stats.vercel.app/api?username=TawanTippkun200501&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TawanTippkun200501's GitHub stats" /></a><a
+                      href="http://www.github.com/TawanTippkun200501"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=TawanTippkun200501&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/TawanTippkun200501" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawanTippkun200501&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

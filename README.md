@@ -28,6 +28,5 @@ Currently studying
 <a href="https://github.com/tawan230666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan230666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-![snake gif](https://github.com/tawan230666/tawan230666/blob/output/github-snake-dark.svg)
 ### 🐍 GitHub Contribution Snake  
 ![snake gif](https://github.com/tawan230666/github-snake/blob/output/github-contribution-grid-snake.svg)

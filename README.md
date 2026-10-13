@@ -1,35 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TawanTippkhun
-=====================================================================================================================================
+<h1 align="center">Hi, I'm Tawan Tiphkun 👋</h1>
 
-I'm a Software Engineering student
-----------------------------------
-
-passionate about Machine Learning, Data Science, and Software Development. I love exploring new technologies and building projects that solve real-world problems.
-
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [tawantippkun20501@gmail.com](mailto:tawantippkun20501@gmail.com)
-* 🧠  I'm learning Machine Learning (Supervised & Unsupervised Learning, Neural Networks) Python for Data Science (Pandas, NumPy, Scikit-learn) Software Development (Clean Code, Design Patterns) Networking & Security
-* 🤝  I'm open to collaborating on Projects & Interests: 🤖 ML Models – Experimenting with machine learning models on real-world datasets 🕹 Game Development – Integrating AI with 2D game mechanics 📡 Networking Projects – Simulating and configuring networks in Packet Tracer
-* ⚡  💡 Goals & Aspirations: I’m passionate about leveraging AI and software development to create impactful solutions. Always eager to learn, collaborate, and improve my coding skills.
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <b>Software Engineering student at RMUTL Chiang Mai, Thailand</b><br>
+  I build full-stack web apps and distributed backends, and I'm growing into machine learning.
 </p>
 
+<p align="center">
+  <a href="mailto:tawantippkun200501@gmail.com"><img src="https://img.shields.io/badge/Email-tawantippkun200501@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://tawan230666.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-tawan230666.github.io-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/Tawan Tippkhun" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TawanTippkun200501" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## ⭐ Featured projects
 
-### Badges
+| Project | What it is | Stack |
+|---|---|---|
+| **[BizFlow](https://github.com/tawan230666/bizflow-monorepo-demo)** | QR table ordering for restaurants. Diners order and pay by PromptPay QR from their phone; kitchen and cashier screens update live. Server-side pricing, role-based access, transactional order and payment flows. | TypeScript · React · Express · Prisma · MySQL · Socket.IO · Docker |
+| **[Tipkhun Capital](https://github.com/tawan230666/SuperApp)** | Cross-platform app that keeps traders inside a risk plan: daily loss budget, trade journal, automatic STOP state and profit allocation. | Flutter · Dart |
+| **[Bean Snack Detection](https://github.com/tawan230666/yolo-bean-detection)** | Custom YOLO detector for 5 snack ingredients, built end to end from data collection and labelling to training and inference. **0.91 mAP@50** on held-out images. | Python · Ultralytics YOLO · PyTorch · OpenCV |
+| **[Secure Task Board](https://github.com/tawan230666/engse207-termproject-jwt-microservices)** | Microservices behind an Nginx API gateway with JWT and RBAC, rate limiting, database per service, and Grafana + Loki logging. | Node.js · PostgreSQL · Nginx · Docker · Grafana |
 
-<b>My GitHub Stats</b>
+### 🏗️ One app, five architectures
 
-<a href="http://www.github.com/TawanTippkun200501"><img src="https://github-readme-stats.vercel.app/api?username=TawanTippkun200501&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TawanTippkun200501's GitHub stats" /></a>
+For my Software Architecture course I evolved the same task board through five designs. Each repo documents the trade-offs:
 
-<a href="http://www.github.com/TawanTippkun200501"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TawanTippkun200501&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[Layered](https://github.com/tawan230666/engse207-week4-layered) → [N-tier + Docker](https://github.com/tawan230666/engse207-task-board) → [Load-balanced + Redis cache](https://github.com/tawan230666/Week6_lab_ntier_redis_loadbalance) → [Event-driven with RabbitMQ](https://github.com/tawan230666/week7_lab_event_driven_rabbitmq) → [Secured microservices](https://github.com/tawan230666/engse207-termproject-jwt-microservices) ([deployed to Railway](https://github.com/tawan230666/engse207-final-lab2-67543210033-6-67543210049-2))
 
-<a href="https://github.com/TawanTippkun200501" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawanTippkun200501&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### More work
+
+- **[RPG Game Database & Admin App](https://github.com/tawan230666/RPG-game_system_design):** relational design with business rules enforced by constraints and triggers, plus an admin panel with RBAC and audit logs (MySQL, Express)
+- **[Agent Wallboard](https://github.com/tawan230666/engse203-lab6-database-integration):** real-time call-center backend with MongoDB, Socket.IO, Joi validation and Jest tests in CI. See also its [admin panel](https://github.com/tawan230666/Task1-User-Management) and [Electron desktop client](https://github.com/tawan230666/Lab-8.2-IPC-Communication)
+- **[Restaurant Review App](https://github.com/tawan230666/restaurant-review-app):** React and Express app with live search, combinable filters and validated reviews
+
+## 🛠️ Tech I use
+
+**Languages:** TypeScript, JavaScript, Python, Dart, Java, C/C++, SQL<br>
+**Frontend:** React, Vite, Tailwind CSS, Zustand, Flutter, Electron<br>
+**Backend:** Node.js, Express, Prisma, REST, Socket.IO, JWT, RabbitMQ<br>
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, SQLite<br>
+**DevOps:** Docker Compose, Nginx, GitHub Actions, Railway, Grafana + Loki<br>
+**ML:** PyTorch, Ultralytics YOLO, OpenCV, pandas, scikit-learn
+
+## 📈 Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tawan230666&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan230666&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawan230666/tawan230666/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tawan230666/tawan230666/output/github-snake.svg">
+</picture>

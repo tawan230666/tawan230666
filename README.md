@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:tawantippkun200501@gmail.com"><img src="https://img.shields.io/badge/Email-tawantippkun200501@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://tawan230666.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-tawan230666.github.io-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://tawan230666.github.io/"><img src="https://img.shields.io/badge/Portfolio-tawan230666.github.io-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
